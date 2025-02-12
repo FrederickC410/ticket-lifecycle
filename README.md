@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/user-attachments/assets/ec79fbb7-655e-49d4-8cfa-b679747f188b)
 </p>
 <p>
-Here I create a ticket for an end user encountering a problem that needs IT support
+Creating a ticket for an end user encountering a problem that needs IT support
 </p>
 <br />
 

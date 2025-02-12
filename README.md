@@ -41,10 +41,9 @@ Updating the SLA and Priority of the ticket and assigning to Jane who is a exper
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/567134ab-34f4-4b3f-976d-b5412b3ec339)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here Jane resolved the issue and Post Reply before closing the ticket. The custome's issue has been addressed, improving their experince with the bank.
 </p>
 <br />

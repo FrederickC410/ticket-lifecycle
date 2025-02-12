@@ -37,7 +37,7 @@ Creating a ticket for an end user encountering a problem that needs IT support
 ![image](https://github.com/user-attachments/assets/18495090-d782-4ab9-b5be-a32f86664dcd)
 </p>
 <p>
-Updating the SLA and Priority of ticket and assigning to Jane who is a expertise in online banking-related issues, such as transaction errors, account security, or fraud prevention.
+Updating the SLA and Priority of the ticket and assigning to Jane who is a expertise in online banking-related issues, such as transaction errors, account security, or fraud prevention.
 </p>
 <br />
 
